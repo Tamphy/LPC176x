@@ -24,7 +24,7 @@
 //#define SMOOTHIEBOARD
 //#define BOARD_RAMPS_16
 //#define BOARD_BTT_SKR_13
-//#define BOARD_BTT_SKR_14_TURBO
+#define BOARD_BTT_SKR_14_TURBO
 //#define BOARD_BTT_SKR_E3_TURBO  // With onboard Trinamic TNMC2209 drivers. NOTE: not verified!
 //#define BOARD_MKS_SBASE_13
 //#define BOARD_MY_MACHINE // Add my_machine_map.h before enabling this!
